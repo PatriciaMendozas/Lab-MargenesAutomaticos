@@ -1,0 +1,18 @@
+#cuadrado_uno{
+	text-align: center;
+}
+
+p{
+	margin: 10px 10px 10px 10px;
+}
+
+div{
+	border: 5px solid yellow;
+	width: 200px;
+	height: 200px;
+	padding: 10px 10px 10px 10px;
+}
+
+#cuadrado_dos{
+	float: right;
+}
